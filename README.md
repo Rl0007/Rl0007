@@ -13,7 +13,7 @@
 
 ## 3. [Character](https://clone-b3d0e.web.app/) :-
 
-### An ecommerce website made using React and firebase, I didn't complete it as I lost intrest.
+### An ecommerce website made using React and firebase.
 
 ## 4. [Library Management](https://github.com/Rl0007/library-management) :-
 
